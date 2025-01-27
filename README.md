@@ -4,9 +4,14 @@
 
 ---
 
-🔍 **Who am I?**  
-I'm a **data-driven professional** who's transitioning from **Strategic Account Management** to the exciting world of **Data Analytics**. 💼🔄📊 I specialize in leveraging **data insights** for **strategic decision-making**, with hands-on experience in **performance analysis**, **forecasting**, and **dashboard creation**.  
-Now, I'm diving into the **technical side**, enhancing my skills in **SQL**, **Python**, and **data visualization** to make data speak louder! 💻✨
+### 🔍 **Who am I?**  
+
+I'm a **data-driven professional** with a background in **Strategic Account Management** and **Product Management**, transitioning to the exciting world of **Data Analytics**. 💼🔄📊 I specialize in leveraging **data insights** for **strategic decision-making**, with hands-on experience in industries like:  
+- **EV Business** ⚡: Driving innovation in the electric vehicle space.  
+- **Vacation Rental** 🏡: Optimizing revenue and partner experiences through data.  
+- **Cloud Marketplace** ☁️: Scaling strategic partnerships and enabling SaaS growth.  
+
+With my experience in **performance analysis**, **forecasting**, and **dashboard creation**, I'm now diving deeper into the **technical side**, enhancing my skills in **SQL**, **Python**, and **data visualization** to make data speak louder! 💻✨
 
 ---
 
