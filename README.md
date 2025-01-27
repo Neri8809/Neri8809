@@ -54,9 +54,4 @@ When I'm not trying to figure out data, you can find me **hiking**, **camping**,
 
 ---
 
-### 🐶 Here's my dog! 🐾  
-![My Dog](file:///Users/Neri/Desktop/DSCF1886.JPG)
-
----
-
 #### **Thanks for stopping by!** 😄
