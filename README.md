@@ -11,7 +11,7 @@ I'm a **data-driven professional** with a background in **Strategic Account Mana
 - **Vacation Rental** 🏡: Optimizing revenue and partner experiences through data.  
 - **Cloud Marketplace** ☁️: Scaling strategic partnerships and enabling SaaS growth.  
 
-With my experience in **performance analysis**, **forecasting**, and **dashboard creation**, I'm now diving deeper into the **technical side**, enhancing my skills in **SQL**, **Python**, and **data visualization** to make data speak louder! 💻✨
+With my experience in **performance analysis**, **forecasting**, and **dashboard creation**, I'm now diving deeper into the **technical side**, enhancing my skills in **SQL**, **Python**, and **data visualization** to make data speak louder! 💻✨ 
 
 ---
 
@@ -60,6 +60,6 @@ When I'm not trying to figure out data, you can find me **hiking**, **camping**,
 ---
 
 ### My Rescue Dog - Connie 🌟
-![My Dog](./DSCF1770.jpg)
+![My Dog](./DSCF1770.JPG)
 
 #### **Thanks for stopping by!** 😄
