@@ -59,4 +59,7 @@ When I'm not trying to figure out data, you can find me **hiking**, **camping**,
 
 ---
 
+### My Rescue Dog - Connie 🌟
+![My Dog](./DSCF1770.jpg)
+
 #### **Thanks for stopping by!** 😄
